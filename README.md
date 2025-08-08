@@ -130,7 +130,7 @@ hugo new posts/post-name.md
 hugo list all
 
 # Check site configuration
-hugo check
+hugo config
 ```
 
 ## 🤖 GitHub Actions

@@ -44,7 +44,7 @@ jobs:
       - name: Check Hugo version compatibility
         run: |
           echo "Hugo version: $(hugo version)"
-          hugo check
+          hugo config
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4

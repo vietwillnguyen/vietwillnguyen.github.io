@@ -10,7 +10,7 @@ Hi, I’m Viet Nguyen, Professionally I am a software engineer with 5 years of e
 
 Along the way, in both my profession and personal life I’ve stepped into leadership roles, helping guide teams, mentor others, manage stakeholders, and done my best to deliver products on time and at a high quality. 
 
-In addition to my technical career, I'm passionate about giving back to the community [Vietnam Hearts](https://www.facebook.com/vietnamhearts), where we help provide an educational, positive, and fun environment for disadvantaged children in Ho Chi Minh City. Founded just in 2025, I launched a grassroots educational volunteer group starting from 0, which provides education for 60 students and has raised over $5000 for food and supplies.
+I am also the founder of [Vietnam Hearts](https://www.facebook.com/vietnamhearts), a volunteer collective providing an educational, positive, and fun environment for disadvantaged children in Ho Chi Minh City. Founded just in 2025, I launched a grassroots educational volunteer group starting from 0, which provides education for 60 students and has raised over $5000 for food and supplies.
 
 I continually look for ways to improve both professionally and personally, and create things that matter. If that aligns with you, lets get in touch. 
 
@@ -18,11 +18,11 @@ I continually look for ways to improve both professionally and personally, and c
 
 ## Work Experience
 
-### **Antler** <img src="/images/antler-logo.svg" alt="Antler" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
+### **Antler** <img src="https://vietwillnguyen.github.io/vietwillnguyen.github.io/images/icon-antler.png" alt="Antler" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
 **Founder | Entrepreneur**  
-_Ho Chi Minh City | Oct 2023 – Present_
+_Ho Chi Minh City | May 2025 – Present_
 
-### **Archer Aviation** <img src="/images/archer-logo.svg" alt="Archer Aviation" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
+### **Archer Aviation**  <img src="https://vietwillnguyen.github.io/vietwillnguyen.github.io/images/icon-archer.png" alt="Antler" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
 **Software Engineer**  
 _Remote | Oct 2023 – Jan 2025_
 
@@ -32,7 +32,7 @@ _Remote | Oct 2023 – Jan 2025_
 
 ---
 
-### **Workhorse Technologies** <img src="/images/workhorse-logo.svg" alt="Workhorse Technologies" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
+### **Workhorse Technologies** <img src="https://vietwillnguyen.github.io/vietwillnguyen.github.io/images/icon-workhorse.png" alt="Workhorse Technologies" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
 **Software Engineer**  
 _Remote | May 2023 – Sep 2023_
 
@@ -41,7 +41,7 @@ _Remote | May 2023 – Sep 2023_
 
 ---
 
-### **Matternet** <img src="/images/matternet-logo.svg" alt="Matternet" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
+### **Matternet** <img src="https://vietwillnguyen.github.io/vietwillnguyen.github.io/images/icon-matternet.png" alt="Matternet" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
 **Software Engineer**  
 _Mountain View, CA | Oct 2020 – Dec 2022_
 
@@ -54,7 +54,7 @@ _Mountain View, CA | Oct 2020 – Dec 2022_
 
 ---
 
-### **ICURO** <img src="/images/icuro-logo.svg" alt="ICURO" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
+### **ICURO** <img src="https://vietwillnguyen.github.io/vietwillnguyen.github.io/images/icon-icuro.png" alt="ICURO" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
 **Autonomous Systems Engineer**  
 _Santa Clara, CA | Jun 2020 – Oct 2020_
 
@@ -63,7 +63,7 @@ _Santa Clara, CA | Jun 2020 – Oct 2020_
 
 ---
 
-### **Baskin School of Engineering, UCSC** <img src="/images/ucsc-logo.png" alt="UCSC" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
+### **Baskin School of Engineering, UCSC** <img src="https://vietwillnguyen.github.io/vietwillnguyen.github.io/images/icon-ucsc.png" alt="UCSC" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
 **Mechatronics Tutor & Engineering Learning Assistant**  
 _Santa Cruz, CA | Sep 2018 – Jun 2020_
 

@@ -17,6 +17,9 @@ shortname = "yourdiscussshortname"
 [markup.highlight]
 style = "github-dark"
 
+[markup.goldmark.renderer]
+unsafe = true
+
 [params]
   author = "Viet Nguyen"
   info = "Founder & Software Engineer; full-stack, embedded"

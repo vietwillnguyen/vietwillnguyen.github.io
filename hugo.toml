@@ -1,5 +1,5 @@
 baseurl = "https://vietwillnguyen.github.io/"
-title = "viet nguyen"
+title = "Viet Nguyen"
 theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
@@ -22,7 +22,7 @@ unsafe = true
 
 [params]
   author = "Viet Nguyen"
-  info = "Founder, Software Engineer & Learner"
+  info = "Founder, Software Engineer, & Learner"
   description = "Viet Nguyen's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/headshot.jpeg"
@@ -72,7 +72,7 @@ unsafe = true
   name = "Vietnam Hearts"
   icon = "fa-solid fa-heart fa-2x"
   weight = 4
-  url = "https://www.facebook.com/vietnamhearts"
+  url = "https://www.instagram.com/vietnam_hearts/"
 
 # [[params.social]]
 # name = "Gitlab"

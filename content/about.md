@@ -18,7 +18,7 @@ I continually look for ways to improve both professionally and personally, and c
 
 ## Work Experience
 
-### **Antler** <img src="/vietwillnguyen.github.io/images/icon-antler.png" alt="Antler" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />
+### **Antler** <img src="/images/icon-antler.png" alt="Antler" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />
 
 **Founder | Entrepreneur**  
 _Ho Chi Minh City | May 2025 – Present_
@@ -28,7 +28,7 @@ _Ho Chi Minh City | May 2025 – Present_
 
 ---
 
-### **Archer Aviation**  <img src="/vietwillnguyen.github.io/images/icon-archer.png" alt="Archer Aviation" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
+### **Archer Aviation**  <img src="/images/icon-archer.png" alt="Archer Aviation" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
 **Software Engineer**  
 _Remote | Oct 2023 – Jan 2025_
 
@@ -38,7 +38,7 @@ _Remote | Oct 2023 – Jan 2025_
 
 ---
 
-### **Workhorse Technologies** <img src="/vietwillnguyen.github.io/images/icon-workhorse.png" alt="Workhorse Technologies" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
+### **Workhorse Technologies** <img src="/images/icon-workhorse.png" alt="Workhorse Technologies" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
 **Software Engineer**  
 _Remote | May 2023 – Sep 2023_
 
@@ -47,7 +47,7 @@ _Remote | May 2023 – Sep 2023_
 
 ---
 
-### **Matternet** <img src="/vietwillnguyen.github.io/images/icon-matternet.png" alt="Matternet" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
+### **Matternet** <img src="/images/icon-matternet.png" alt="Matternet" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
 **Software Engineer**  
 _Mountain View, CA | Oct 2020 – Dec 2022_
 
@@ -60,7 +60,7 @@ _Mountain View, CA | Oct 2020 – Dec 2022_
 
 ---
 
-### **ICURO** <img src="/vietwillnguyen.github.io/images/icon-icuro.png" alt="ICURO" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
+### **ICURO** <img src="/images/icon-icuro.png" alt="ICURO" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
 **Autonomous Systems Engineer**  
 _Santa Clara, CA | Jun 2020 – Oct 2020_
 
@@ -69,7 +69,7 @@ _Santa Clara, CA | Jun 2020 – Oct 2020_
 
 ---
 
-### **Baskin School of Engineering, UCSC** <img src="/vietwillnguyen.github.io/images/icon-ucsc.png" alt="UCSC" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
+### **Baskin School of Engineering, UCSC** <img src="/images/icon-ucsc.png" alt="UCSC" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
 **Mechatronics Tutor & Engineering Learning Assistant**  
 _Santa Cruz, CA | Sep 2018 – Jun 2020_
 

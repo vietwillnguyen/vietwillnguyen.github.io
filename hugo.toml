@@ -1,4 +1,4 @@
-baseurl = "https://vietwillnguyen.github.io/vietwillnguyen.github.io/"
+baseurl = "https://vietwillnguyen.github.io/"
 title = "viet nguyen"
 theme = "hugo-coder"
 languagecode = "en"

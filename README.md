@@ -133,17 +133,52 @@ hugo list all
 hugo check
 ```
 
+## 🤖 GitHub Actions
+
+This repository includes automated workflows for testing and deployment:
+
+### Available Workflows
+
+1. **Deploy Hugo site to Pages** (`.github/workflows/hugo.yaml`)
+   - **Triggers**: Push to `main` branch, manual trigger
+   - **Actions**: Builds Hugo site and deploys to GitHub Pages
+   - **Features**: Concurrent deployment protection, automatic Hugo installation
+
+2. **Test Hugo site** (`.github/workflows/test.yaml`)
+   - **Triggers**: Push to `main`/`develop` branches, pull requests
+   - **Actions**: Validates Hugo config, builds site, checks for errors
+   - **Features**: HTML validation, broken link detection
+
+### How to Use
+
+1. **Automatic**: Just push to `main` branch - deployment happens automatically
+2. **Manual**: Go to Actions tab → Select workflow → "Run workflow"
+3. **Monitor**: Check the Actions tab to see build status and logs
+
+### Workflow Benefits
+
+- ✅ **No manual deployment steps**
+- ✅ **Automatic testing on every push**
+- ✅ **Catch errors before they reach production**
+- ✅ **Version control for deployment process**
+- ✅ **Rollback capability through GitHub**
+
 ## 🚀 Deployment
 
-### GitHub Pages (Recommended)
+This site is configured for automatic deployment using GitHub Actions:
 
-This site is configured for GitHub Pages deployment:
-
-1. **Automatic Deployment** (if using GitHub Actions):
+1. **Automatic Deployment**:
    - Push changes to the `main` branch
-   - GitHub Actions will automatically build and deploy
+   - GitHub Actions automatically builds and deploys to GitHub Pages
+   - No manual steps required!
 
-2. **Manual Deployment**:
+2. **Workflow Features**:
+   - **Build Testing**: Validates Hugo configuration and builds the site
+   - **Automatic Deployment**: Deploys to GitHub Pages on successful build
+   - **Concurrent Protection**: Prevents multiple deployments running simultaneously
+   - **Manual Trigger**: Can be run manually from the Actions tab
+
+3. **Manual Deployment** (fallback):
    ```bash
    # Build the site
    hugo

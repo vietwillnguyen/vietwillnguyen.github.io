@@ -4,6 +4,9 @@ theme = "hugo-coder"
 languagecode = "en"
 defaultcontentlanguage = "en"
 
+# Hugo version compatibility
+min_version = "0.124.0"
+
 [pagination]
 pagerSize = 20
 

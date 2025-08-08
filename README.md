@@ -6,7 +6,7 @@ A personal website built with [Hugo](https://gohugo.io/) using the [Hugo Coder](
 
 ### Prerequisites
 
-- [Hugo Extended](https://gohugo.io/installation/) (version 0.80.0 or higher)
+- [Hugo Extended](https://gohugo.io/installation/) (version 0.124.0 or higher)
 - [Git](https://git-scm.com/)
 
 ### Installation

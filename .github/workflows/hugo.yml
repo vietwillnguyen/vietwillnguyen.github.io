@@ -30,7 +30,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.121.1
+      HUGO_VERSION: 0.124.0
     steps:
       - name: Install Hugo CLI
         run: |
@@ -41,6 +41,10 @@ jobs:
         with:
           submodules: recursive
           token: ${{ secrets.GITHUB_TOKEN }}
+      - name: Check Hugo version compatibility
+        run: |
+          echo "Hugo version: $(hugo version)"
+          hugo check
       - name: Setup Pages
         id: pages
         uses: actions/configure-pages@v4

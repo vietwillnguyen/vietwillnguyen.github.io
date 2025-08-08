@@ -10,7 +10,7 @@ jobs:
   test:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.121.1
+      HUGO_VERSION: 0.124.0
     steps:
       - name: Install Hugo CLI
         run: |
@@ -25,6 +25,11 @@ jobs:
       
       - name: Check Hugo version
         run: hugo version
+      
+      - name: Check Hugo version compatibility
+        run: |
+          echo "Hugo version: $(hugo version)"
+          hugo check
       
       - name: Validate Hugo configuration
         run: hugo check

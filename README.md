@@ -140,18 +140,18 @@ This repository includes automated workflows for testing and deployment:
 ### Available Workflows
 
 1. **Deploy Hugo site to Pages** (`.github/workflows/hugo.yaml`)
-   - **Triggers**: Push to `main` branch, manual trigger
+   - **Triggers**: Push to `master` branch, manual trigger
    - **Actions**: Builds Hugo site and deploys to GitHub Pages
    - **Features**: Concurrent deployment protection, automatic Hugo installation
 
 2. **Test Hugo site** (`.github/workflows/test.yaml`)
-   - **Triggers**: Push to `main`/`develop` branches, pull requests
+   - **Triggers**: Push to `master`/`develop` branches, pull requests
    - **Actions**: Validates Hugo config, builds site, checks for errors
    - **Features**: HTML validation, broken link detection
 
 ### How to Use
 
-1. **Automatic**: Just push to `main` branch - deployment happens automatically
+1. **Automatic**: Just push to `master` branch - deployment happens automatically
 2. **Manual**: Go to Actions tab → Select workflow → "Run workflow"
 3. **Monitor**: Check the Actions tab to see build status and logs
 
@@ -168,7 +168,7 @@ This repository includes automated workflows for testing and deployment:
 This site is configured for automatic deployment using GitHub Actions:
 
 1. **Automatic Deployment**:
-   - Push changes to the `main` branch
+   - Push changes to the `master` branch
    - GitHub Actions automatically builds and deploys to GitHub Pages
    - No manual steps required!
 

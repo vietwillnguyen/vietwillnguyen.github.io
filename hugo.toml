@@ -22,7 +22,7 @@ unsafe = true
 
 [params]
   author = "Viet Nguyen"
-  info = "Founder & Software Engineer; full-stack, embedded"
+  info = "Founder, Software Engineer & Learner"
   description = "Viet Nguyen's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/headshot.jpeg"

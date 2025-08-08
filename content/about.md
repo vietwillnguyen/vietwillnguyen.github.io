@@ -4,9 +4,16 @@ date: 2024-01-01
 draft: false
 ---
 
+<div style="margin: 2em 0;">
+  <video controls width="100%" style="display: block; margin: 0 auto;">
+    <source src="/videos/vietnam-hearts.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+</div>
+
 # About Me 
 
-Hi, I’m Viet Nguyen, Professionally I am a software engineer with 5 years of experience across the embedded stack  — from bare-metal, RTOS, to embedded Linux devices. I’ve worked on projects from concept, prototype, development, testing, and deployment. I have spent most of my professional career in the Bay Area California, exposing me to the startup culture and tech-industry practices. My specialization has been in embedded, full-stack and automation based projects. 
+Hi, I’m Viet Nguyen, professionally I am a software engineer with 5 years of experience across the embedded stack  — from bare-metal, RTOS, to embedded Linux devices. I’ve worked on projects from concept, prototype, development, testing, and deployment. I have spent most of my professional career in the Bay Area California, exposing me to the startup culture and tech-industry practices. My specialization has been in embedded, full-stack and automation based projects. 
 
 Along the way, in both my profession and personal life I’ve stepped into leadership roles, helping guide teams, mentor others, manage stakeholders, and done my best to deliver products on time and at a high quality. 
 

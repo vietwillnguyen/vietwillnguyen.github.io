@@ -1,0 +1,85 @@
+baseurl = "https://vietwillnguyen.github.io/vietwillnguyen.github.io/"
+title = "viet nguyen"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+[pagination]
+pagerSize = 20
+
+[services]
+[services.disqus]
+shortname = "yourdiscussshortname"
+
+[markup.highlight]
+style = "github-dark"
+
+[params]
+  author = "Viet Nguyen"
+  info = "Founder & Software Engineer; full-stack, embedded"
+  description = "Viet Nguyen's personal website"
+  keywords = "blog,developer,personal"
+  avatarurl = "images/headshot.jpeg"
+  #gravatar = "viet.will.nguyen@gmail.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2019
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Github"
+  icon = "fa-brands fa-github fa-2x"
+  weight = 1
+  url = "https://github.com/vietwillnguyen"
+
+[[params.social]]
+  name = "Facebook"
+  icon = "fa-brands fa-facebook fa-2x"
+  weight = 2
+  url = "https://www.facebook.com/viet.wq.nguyen"
+
+[[params.social]]
+  name = "Instagram"
+  icon = "fa-brands fa-instagram fa-2x"
+  weight = 3
+  url = "https://instagram.com/franklinfool/"
+
+[[params.social]]
+  name = "Vietnam Hearts"
+  icon = "fa-solid fa-heart fa-2x"
+  weight = 4
+  url = "https://www.facebook.com/vietnamhearts"
+
+# [[params.social]]
+# name = "Gitlab"
+#  icon = "fa-brands fa-gitlab fa-2x"
+#  weight = 2
+#  url = "https://gitlab.com/johndoe/"
+
+# Menu links
+# [[menu.main]]
+#  name = "Blog"
+#  weight = 1
+#  url  = "posts/"
+[[menu.main]]
+  name = "About"
+  weight = 2
+  url = "about/"

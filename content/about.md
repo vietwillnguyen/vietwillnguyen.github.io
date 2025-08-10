@@ -13,19 +13,16 @@ draft: false
 
 # About Me 
 
-Hi, I’m Viet Nguyen, professionally I am a software engineer with 5 years of experience across the embedded stack  — from bare-metal, RTOS, to embedded Linux devices. I’ve worked on projects from concept, prototype, development, testing, and deployment. I have spent most of my professional career in the Bay Area California, exposing me to the startup culture and tech-industry practices. My specialization has been in embedded, full-stack and automation based projects. 
+Hi, I’m Viet Nguyen, professionally I am a software engineer with 5 years of experience across the stack, from embedded to full-stack and automation based projects. My experience in fast paced startup culture exposed me to each part of software product development, everything from concept, prototype, development, testing, and deployment. I have spent most of my professional career in the Bay Area California, exposing me to the best tech-industry practices. My specialization has been in embedded, full-stack and automation based projects. 
 
-Along the way, in both my profession and personal life I’ve stepped into leadership roles, helping guide teams, mentor others, manage stakeholders, and done my best to deliver products on time and at a high quality. 
+I am also the founder of [Vietnam Hearts](https://www.facebook.com/vietnamhearts), a volunteer collective providing an educational, positive, and fun environment for disadvantaged children in Ho Chi Minh City. Founded just in 2025, in just under a year, I launched a grassroots educational scaling from 0 to over 60 students and 100 volunteers and has raised over $5000 for food and supplies.
 
-I am also the founder of [Vietnam Hearts](https://www.facebook.com/vietnamhearts), a volunteer collective providing an educational, positive, and fun environment for disadvantaged children in Ho Chi Minh City. Founded just in 2025, I launched a grassroots educational volunteer group starting from 0, which provides education for 60 students and has raised over $5000 for food and supplies.
-
-I continually look for ways to improve both professionally and personally, and create things that matter. If that aligns with you, lets get in touch. 
-
+I continually look for ways to improve both professionally and personally, and create things that matter. If that aligns with you, <a href="/contact/">let's get in touch</a>.
 ---
 
 ## Work Experience
 
-### **Antler** <img src="/images/icon-antler.png" alt="Antler" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />
+### <img src="/images/icon-antler.png" alt="Antler" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;" /> **Antler**
 
 **Founder | Entrepreneur**  
 _Ho Chi Minh City | May 2025 – Present_
@@ -35,7 +32,7 @@ _Ho Chi Minh City | May 2025 – Present_
 
 ---
 
-### **Archer Aviation** <img src="/images/icon-archer.png" alt="Archer Aviation" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
+### <img src="/images/icon-archer.png" alt="Archer Aviation" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" /> **Archer Aviation** 
 **Software Engineer**  
 _Remote | Oct 2023 – Jan 2025_
 
@@ -45,7 +42,7 @@ _Remote | Oct 2023 – Jan 2025_
 
 ---
 
-### **Workhorse Technologies** <img src="/images/icon-workhorse.png" alt="Workhorse Technologies" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
+### <img src="/images/icon-workhorse.png" alt="Workhorse Technologies" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" /> **Workhorse Technologies** 
 **Software Engineer**  
 _Remote | May 2023 – Sep 2023_
 
@@ -54,7 +51,7 @@ _Remote | May 2023 – Sep 2023_
 
 ---
 
-### **Matternet** <img src="/images/icon-matternet.png" alt="Matternet" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
+### <img src="/images/icon-matternet.png" alt="Matternet" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" /> **Matternet** 
 **Software Engineer**  
 _Mountain View, CA | Oct 2020 – Dec 2022_
 
@@ -67,7 +64,7 @@ _Mountain View, CA | Oct 2020 – Dec 2022_
 
 ---
 
-### **ICURO** <img src="/images/icon-icuro.png" alt="ICURO" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
+### <img src="/images/icon-icuro.png" alt="ICURO" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" /> **ICURO** 
 **Autonomous Systems Engineer**  
 _Santa Clara, CA | Jun 2020 – Oct 2020_
 
@@ -76,7 +73,7 @@ _Santa Clara, CA | Jun 2020 – Oct 2020_
 
 ---
 
-### **Baskin School of Engineering, UCSC** <img src="/images/icon-ucsc.png" alt="UCSC" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" />  
+### <img src="/images/icon-ucsc.png" alt="UCSC" style="width: 24px; height: 24px; vertical-align: middle; margin-left: 8px;" /> **Baskin School of Engineering, UCSC** 
 **Mechatronics Tutor & Engineering Learning Assistant**  
 _Santa Cruz, CA | Sep 2018 – Jun 2020_
 
@@ -110,16 +107,3 @@ _June 2020 | Santa Cruz, CA_
 - Logic Analyzers, Oscilloscopes, Bluetooth, BLE, CAN, UART, I2C, MQTT, IoT
 
 ---
-
-## Contact
-
-Feel free to reach out to me through any of the social links above or [my email](mailto:viet.will.nguyen@gmail.com).
-
-- **Phone:** US: +1 (858) 997-4502, VN: +84 356415197  
-- **Location:** San Diego, CA | HCM, VN
-<!-- ## Contact Information
-
-- **Name:** Viet William-Quoc Nguyen  
-- **Email:** [viet.will.nguyen@gmail.com](mailto:viet.will.nguyen@gmail.com)  
-
-- **LinkedIn:** [linkedin.com/in/viet-nguyen-971976376](https://www.linkedin.com/in/viet-nguyen-971976376/)   -->

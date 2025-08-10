@@ -13,9 +13,9 @@ draft: false
 
 # About Me 
 
-Hi, I’m Viet Nguyen, professionally I am a software engineer with 5 years of experience across the stack, from embedded to full-stack and automation based projects. My experience in fast paced startup culture exposed me to each part of software product development, everything from concept, prototype, development, testing, and deployment. I have spent most of my professional career in the Bay Area California, exposing me to the best tech-industry practices. My specialization has been in embedded, full-stack and automation based projects. 
+Hey, I’m Viet Nguyen. professionally I am a software engineer with 5 years of experience across the stack, from embedded to full-stack and automation based projects. My experience in fast paced startup culture exposed me to each part of software product development, everything from concept, prototype, development, testing, and deployment. I have spent most of my professional career in the Bay Area California, exposing me to the best tech-industry practices. My specialization has been in embedded, full-stack and automation based projects. 
 
-I am also the founder of [Vietnam Hearts](https://www.facebook.com/vietnamhearts), a volunteer collective providing an educational, positive, and fun environment for disadvantaged children in Ho Chi Minh City. Founded just in 2025, in just under a year, I launched a grassroots educational scaling from 0 to over 60 students and 100 volunteers and has raised over $5000 for food and supplies.
+I am also the founder of [Vietnam Hearts](https://www.facebook.com/vietnamhearts), a volunteer collective providing an educational, positive, and fun environment for disadvantaged children in Ho Chi Minh City. Founded just in 2025 and in under a year, I launched a grassroots educational scaling from 0 to over 60 students and 100 volunteers and has raised over $5000 for food and supplies.
 
 I continually look for ways to improve both professionally and personally, and create things that matter. If that aligns with you, <a href="/contact/">let's get in touch</a>.
 

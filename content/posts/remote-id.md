@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = "2025-08-01"
 title = "Career Reflection: building digital license plates for drones at 24"
 description = "Initial commit of the project."

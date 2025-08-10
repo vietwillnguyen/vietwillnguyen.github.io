@@ -1,5 +1,5 @@
 +++
-draft = true
+draft = false
 date = "2024-08-10"
 title = " How a Classroom in Vietnam Changed My Life"
 description = "I was a software engineer at a startup that was valued at 300k. I was the only engineer on the team. I was the only one who knew how to code. I was the only one who knew how to build a product. I was the only one who knew how to sell a product. I was the only one who knew how to market a product. I was the only one who knew how to build a team. I was the only one who knew how to build a culture."

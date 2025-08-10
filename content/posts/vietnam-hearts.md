@@ -19,7 +19,6 @@ series = []
   </figure>
 </div>
 
-
 ## The First Day I Almost Quit
 
 When I first walked into that classroom in Vietnam, I barely knew a word of Vietnamese and had never taught before. My first lesson was a disaster—kids talking over me, no one paying attention, and me not understanding a thing.

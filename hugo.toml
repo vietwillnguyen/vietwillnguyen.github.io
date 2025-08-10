@@ -22,17 +22,17 @@ unsafe = true
 
 [params]
   author = "Viet Nguyen"
-  info = "founder | software engineer | eater of pho"
+  info = "founder | software engineer | cơm tấm lover"
   description = "Viet Nguyen's personal website"
   keywords = "blog,developer,personal"
   avatarurl = "images/headshot.jpeg"
   #gravatar = "viet.will.nguyen@gmail.com"
 
-  faviconSVG = "/img/favicon-v.svg"
-  favicon_32 = "/img/favicon-v-32x32.png"
-  favicon_16 = "/img/favicon-v-16x16.png"
+  faviconSVG = "/images/favicon.ico"
+  favicon_32 = "/images/favicon-v-32x32.png"
+  favicon_16 = "/images/favicon-v-16x16.png"
 
-  since = 2019
+  since = 2025
 
   enableTwemoji = true
 

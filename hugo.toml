@@ -74,12 +74,6 @@ unsafe = true
   weight = 4
   url = "https://www.instagram.com/vietnam_hearts/"
 
-# [[params.social]]
-# name = "Gitlab"
-#  icon = "fa-brands fa-gitlab fa-2x"
-#  weight = 2
-#  url = "https://gitlab.com/johndoe/"
-
 # Menu links
 [[menu.main]]
   name = "About"

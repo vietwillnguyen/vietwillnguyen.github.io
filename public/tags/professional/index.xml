@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Professional on Viet Nguyen</title>
+    <link>http://localhost:1313/tags/professional/</link>
+    <description>Recent content in Professional on Viet Nguyen</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Fri, 01 Aug 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/professional/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Career Reflection: building digital license plates for drones at 24</title>
+      <link>http://localhost:1313/posts/initial-commit/</link>
+      <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/posts/initial-commit/</guid>
+      <description>&lt;h1 id=&#34;career-reflection-building-digital-license-plates-for-drones-at-24&#34;&gt;&#xA;  Career Reflection: building digital license plates for drones at 24&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#career-reflection-building-digital-license-plates-for-drones-at-24&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;In 2022, I took on a project that would define much of my year: building &lt;strong&gt;Remote ID&lt;/strong&gt; for our drones. For those unfamiliar, Remote ID is the FAA’s new requirement—basically a digital license plate that broadcasts a drone’s identity and location in real-time. Without it, our entire fleet would be grounded. No pressure.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

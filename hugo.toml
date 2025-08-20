@@ -62,17 +62,17 @@ unsafe = true
   weight = 2
   url = "https://www.facebook.com/viet.wq.nguyen"
 
-[[params.social]]
-  name = "Instagram"
-  icon = "fa-brands fa-instagram fa-2x"
-  weight = 3
-  url = "https://instagram.com/franklinfool/"
+#[[params.social]]
+#  name = "Instagram"
+#  icon = "fa-brands fa-instagram fa-2x"
+#  weight = 3
+#  url = "https://instagram.com/franklinfool/"
 
-# [[params.social]]
-#   name = "Vietnam Hearts"
-#   icon = "fa-solid fa-heart fa-2x"
-#   weight = 4
-#   url = "https://www.instagram.com/vietnam_hearts/"
+[[params.social]]
+  name = "Vietnam Hearts"
+  icon = "fa-solid fa-heart fa-2x"
+  weight = 4
+  url = "https://www.instagram.com/vietnam_hearts/"
 
 # Menu links
 [[menu.main]]

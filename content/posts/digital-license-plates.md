@@ -2,8 +2,8 @@
 draft = false
 date = "2025-08-01"
 title = "Building digital license plates for drones at 24"
-description = "Initial commit of the project."
-slug = "initial-commit"
+description = "remote id project reflection."
+slug = "digital-license-plates"
 authors = []
 tags = ["personal", "professional"]
 categories = []

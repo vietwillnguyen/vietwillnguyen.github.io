@@ -1,7 +1,7 @@
 +++
 draft = false
 date = "2025-08-10"
-title = " How a Classroom in Vietnam Changed My Life"
+title = " How a classroom in Vietnam changed my life"
 description = "I was a software engineer at a startup that was valued at 300k. I was the only engineer on the team. I was the only one who knew how to code. I was the only one who knew how to build a product. I was the only one who knew how to sell a product. I was the only one who knew how to market a product. I was the only one who knew how to build a team. I was the only one who knew how to build a culture."
 slug = "vietnam-hearts"
 authors = []
@@ -13,9 +13,9 @@ series = []
 
 # How a Classroom in Vietnam Changed My Life
 
-<div style="display: flex; flex-wrap: wrap; gap: 1.5em; margin: 2em 0;">
-  <figure style="flex: 1 1 200px; text-align: center;">
-    <img src="/images/vh-first-class.jpg" alt="Vietnam Hearts Classroom" style="width:100%; max-width:250px; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+<div style="display: flex; flex-wrap: wrap; gap: 2.5em; margin: 3em 0;">
+  <figure style="flex: 1 1 400px; text-align: center;">
+    <img src="/images/vh-first-class.jpg" alt="Vietnam Hearts Classroom" style="width:100%; max-width:500px; border-radius: 18px; box-shadow: 0 4px 16px rgba(0,0,0,0.12);">
   </figure>
 </div>
 
@@ -28,7 +28,7 @@ I left that day seriously considering quitting.
 But as I was packing up, one of the kids tugged at my sleeve and asked,  
 > “Ngày mai thấy đi đạy không? (You’re coming tomorrow to teach, right?)”
 
-That simple question kept me coming back. 
+I guess the next day I did.
 
 ---
 
@@ -46,6 +46,12 @@ People often ask why I started this. The short answer: I believe it’s importan
 
 This year, I’ve learned that the more you give, the more you receive. I’ve poured time, money, and effort into this project, and while there have been plenty of ups and downs, what I’ve gained in return is something I can’t put a price on. Vietnam Hearts is a project in honor for one who changed mine.
 
+## In Vietnamese, there’s a word: **'ơn.'**
+
+It’s the invisible weight of kindness and grace given to you: your parents’ sleepless nights, supportive relationships, even someone simply listening to your worries. It isn’t an unpayable debt; it’s something you carry that helps guide your life. None of my biggest steps would’ve happened without others.
+
+It truly is an honor to grow, learn, and work hard for yourself, and others.
+
 ---
 
 ## How It All Happened
@@ -62,6 +68,8 @@ Then I stumbled upon a local school that desperately needed teachers and supplie
 - **Developed a flexible curriculum** – pieced together lessons using ESL resources, Google Translate, and AI tools.
 - **Handled everything from teaching to operations** – outreach, fundraising, daily logistics.
 - **Bridged language and cultural gaps** – leveraged tech and international networks to make it work.
+
+### I could not have done it without the incredible team. And I am incredibly grateful for such a community.
 
 ---
 

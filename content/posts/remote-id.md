@@ -1,7 +1,7 @@
 +++
 draft = false
 date = "2025-08-01"
-title = "Career Reflection: building digital license plates for drones at 24"
+title = "Building digital license plates for drones at 24"
 description = "Initial commit of the project."
 slug = "initial-commit"
 authors = []
@@ -11,11 +11,11 @@ externalLink = ""
 series = []
 +++
 
-# Career Reflection: building digital license plates for drones at 24
+# It was probably the biggest professional challenge of my career, all as junior engineer.
 
-In 2022, I took on a project that would define much of my year: building **Remote ID** for our drones. For those unfamiliar, Remote ID is the FAA’s new requirement—basically a digital license plate that broadcasts a drone’s identity and location in real-time. Without it, our entire fleet would be grounded. No pressure.
+In 2022, I took on a project that would define much of my year: building **Remote ID** for our drones. For those unfamiliar, Remote ID is the FAA’s new requirement—basically a digital license plate that broadcasts a drone’s identity and location in real-time. Without it, our entire fleet would be grounded. No worries... At that time I was still figuring out how a 401k worked.
 
-The project landed on my desk after a senior engineer left. I had **zero prior experience with Bluetooth Low Energy (BLE)**, but there was no time to hesitate. I dove in—learning BLE protocols from scratch, reaching out to vendors, and prototyping under intense deadlines. The learning curve was steep, but the urgency kept me focused.
+The project landed on my desk after a senior engineer left. I had **zero prior experience with the project**, but there was no time to hesitate. I dove in—learning BLE protocols from scratch, reaching out to vendors, and prototyping under intense deadlines. The learning curve was steep, but the urgency kept me focused.
 
 ---
 

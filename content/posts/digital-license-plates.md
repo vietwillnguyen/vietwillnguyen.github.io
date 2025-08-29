@@ -36,6 +36,7 @@ Every moving part depended on the others, and delays in one area could ripple th
 
 After two intense months, we delivered an **FAA-compliant Remote ID solution**:
 
+- Got more experience closely with ESP32, BLE libraries, Ardupilot integrations of Remote ID, business application and stakeholders. While having little knowledge beforehand.
 - Our drones stayed in the air without regulatory disruption.
 - Integration for future projects was smoother thanks to **thorough documentation**.
 - Technical debt was reduced by clearly outlining system architecture and decisions.

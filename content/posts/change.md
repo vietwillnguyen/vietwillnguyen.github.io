@@ -24,7 +24,7 @@ It’s wild to go from feeling near rock bottom to a completely different trajec
 
 ## Growth isn’t linear—and it isn’t pretty.
 
-It takes a lot to look at yourself in the mirror. And change.
+It's something you confront when you see yourself in the mirror.
 
 I had doubts about my ability as an engineer, so I kept learning and building. Learning an entirely new stack of software engineering and attempting to do business here in a foreign country.
 I wanted to create meaning from the love and lessons I’d received, so I started a volunteer organization:  

@@ -337,7 +337,7 @@ If you’d like to help, share your skills, or just learn more, we welcome anyon
         (d.head || d.body).appendChild(s);
     })();
     
-    document.addEventListener('themeChanged', function (e) { 
+    document.addEventListener('themeChanged', function (e) {
         if (document.readyState == 'complete') {
           DISQUS.reset({ reload: true, config: disqus_config });
         }

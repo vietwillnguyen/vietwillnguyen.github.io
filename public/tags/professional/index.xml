@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Professional on Viet Nguyen</title>
-    <link>http://localhost:40825/tags/professional/</link>
+    <link>http://localhost:35447/tags/professional/</link>
     <description>Recent content in Professional on Viet Nguyen</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Fri, 29 Aug 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:40825/tags/professional/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:35447/tags/professional/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The $1M idea</title>
-      <link>http://localhost:40825/posts/the-1m-idea/</link>
+      <link>http://localhost:35447/posts/the-1m-idea/</link>
       <pubDate>Fri, 29 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40825/posts/the-1m-idea/</guid>
+      <guid>http://localhost:35447/posts/the-1m-idea/</guid>
       <description>&lt;h1 id=&#34;a-few-days-ago-my-team-and-i-raised-120k-to-pursue-our-dream&#34;&gt;&#xA;  A few days ago, my team and I raised $120k to pursue our dream.&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#a-few-days-ago-my-team-and-i-raised-120k-to-pursue-our-dream&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;A year ago, I never would’ve imagined this.&lt;/p&gt;&#xA;&lt;p&gt;In the past year I was going through breakup, falling out with my family, lost two jobs, recovering from a motorbike accident, and addicted to some bad habits. All in a foreign country with no connections. Most of which felt like my fault. I was battling my mental health, my sense of identity, and honor.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Building digital license plates for drones at 24</title>
-      <link>http://localhost:40825/posts/digital-license-plates/</link>
+      <link>http://localhost:35447/posts/digital-license-plates/</link>
       <pubDate>Fri, 01 Aug 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:40825/posts/digital-license-plates/</guid>
+      <guid>http://localhost:35447/posts/digital-license-plates/</guid>
       <description>&lt;h1 id=&#34;it-was-probably-the-biggest-professional-challenge-of-my-career-all-as-junior-engineer&#34;&gt;&#xA;  It was probably the biggest professional challenge of my career, all as junior engineer.&#xA;  &lt;a class=&#34;heading-link&#34; href=&#34;#it-was-probably-the-biggest-professional-challenge-of-my-career-all-as-junior-engineer&#34;&gt;&#xA;    &lt;i class=&#34;fa-solid fa-link&#34; aria-hidden=&#34;true&#34; title=&#34;Link to heading&#34;&gt;&lt;/i&gt;&#xA;    &lt;span class=&#34;sr-only&#34;&gt;Link to heading&lt;/span&gt;&#xA;  &lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;In 2022, I took on a project that would define much of my year: building &lt;strong&gt;Remote ID&lt;/strong&gt; for our drones. For those unfamiliar, Remote ID is the FAA’s new requirement—basically a digital license plate that broadcasts a drone’s identity and location in real-time. Without it, our entire fleet would be grounded. No worries&amp;hellip; At that time I was still figuring out how a 401k worked.&lt;/p&gt;</description>
     </item>
   </channel>

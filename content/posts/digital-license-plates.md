@@ -9,6 +9,8 @@ tags = ["personal", "professional"]
 categories = []
 externalLink = ""
 series = []
+disqus_identifier = "digital-license-plates-2025"
+disqus_url = "https://vietwillnguyen.github.io/posts/digital-license-plates/"
 +++
 
 # It was probably the biggest professional challenge of my career, all as junior engineer.

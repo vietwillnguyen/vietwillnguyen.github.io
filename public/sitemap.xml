@@ -2,39 +2,39 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:40825/tags/personal/</loc>
+    <loc>http://localhost:35447/tags/personal/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40825/posts/</loc>
+    <loc>http://localhost:35447/posts/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40825/tags/professional/</loc>
+    <loc>http://localhost:35447/tags/professional/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40825/tags/</loc>
+    <loc>http://localhost:35447/tags/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40825/posts/the-1m-idea/</loc>
+    <loc>http://localhost:35447/posts/the-1m-idea/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40825/</loc>
+    <loc>http://localhost:35447/</loc>
     <lastmod>2025-08-29T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40825/posts/vietnam-hearts/</loc>
+    <loc>http://localhost:35447/posts/vietnam-hearts/</loc>
     <lastmod>2025-08-10T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40825/posts/digital-license-plates/</loc>
+    <loc>http://localhost:35447/posts/digital-license-plates/</loc>
     <lastmod>2025-08-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40825/about/</loc>
+    <loc>http://localhost:35447/about/</loc>
     <lastmod>2024-01-01T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:40825/authors/</loc>
+    <loc>http://localhost:35447/authors/</loc>
   </url><url>
-    <loc>http://localhost:40825/categories/</loc>
+    <loc>http://localhost:35447/categories/</loc>
   </url><url>
-    <loc>http://localhost:40825/contact/</loc>
+    <loc>http://localhost:35447/contact/</loc>
   </url><url>
-    <loc>http://localhost:40825/series/</loc>
+    <loc>http://localhost:35447/series/</loc>
   </url>
 </urlset>

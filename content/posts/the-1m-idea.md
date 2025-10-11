@@ -1,48 +1,57 @@
 +++
 draft = false
 date = "2025-08-29"
-title = "The $1M idea"
-description = "We raised $120k at a ~$1M valuation to pursue a dream."
-slug = "the-1m-idea"
+title = "From Engineer to Founder: Lessons from Raising $120k"
+description = "Reflections on transitioning from software engineering to technical co-founder and raising pre-seed funding in Vietnam."
+slug = "engineer-to-founder"
 authors = []
-tags = ["personal", "professional"]
+tags = ["entrepreneurship", "professional", "startups"]
 categories = []
 externalLink = ""
 series = []
 +++
 
-# A few days ago, my team and I raised $120k to pursue our dream.
+# From Engineer to Founder: Lessons from Raising $120k
 
-A year ago, I never would’ve imagined this.
+Recently, my team and I successfully raised $120k in pre-seed funding at a ~$1M valuation through the [Antler VN8 Cohort](https://hub.antler.co/) for [SENLA](www.shipsenla.com) for logistics providers.  
 
-In the past year I was going through breakup, falling out with my family, lost two jobs, recovering from a motorbike accident, and addicted to some bad habits. All in a foreign country with no connections. Most of which felt like my fault. I was battling my mental health, my sense of identity, and honor.
+This journey from embedded systems engineer to technical co-founder taught me several lessons worth sharing.
 
-Fast forward to a few days ago, I was told our startup was valued at just over $1M; and we raised $120k to keep building. We’d never met before this cohort, but after a lot of sweat, tears, and late nights building demos and decks, we pitched at [Antler VN8 Cohort](https://hub.antler.co/) and were offered funding for a stake in **MatchFreight**—an AI-powered matching layer for logistics providers.  
-[matchfreight.vercel.app](https://matchfreight.vercel.app/)
+## Building Beyond Your Comfort Zone
 
-It’s wild to go from feeling near rock bottom to a completely different trajectory.
+Transitioning from embedded C++ development in aerospace to full-stack web applications for logistics wasn't straightforward. The past year involved:
 
-## Growth isn’t linear—and it isn’t pretty.
+- Learning an entirely new technology stack (Python, FastAPI, modern web frameworks)
+- Understanding enterprise logistics operations and pain points
+- Conducting customer discovery in a market I had no prior experience in
+- Building and iterating on demos based on real user feedback
 
-It's something you confront when you see yourself in the mirror.
+The technical challenge was significant, but the business development side—understanding customer needs, pitching to investors, navigating a foreign business environment—stretched me in unexpected ways.
 
-I had doubts about my ability as an engineer, so I kept learning and building. Learning an entirely new stack of software engineering and attempting to do business here in a foreign country.
-I wanted to create meaning from the love and lessons I’d received, so I started a volunteer organization:  
-[Instagram: @vietnam_hearts](https://www.instagram.com/vietnam_hearts/)
+## Key Takeaways
 
-I’m not saying I’m especially talented or the best at what I do. I stumble a a lot, but I am proud I’ve been willing to learn, take action, and try—to show up for others when I can. It's crazy how just a few months of trying every day can change a lot.
+**On transitioning to entrepreneurship:**
+The mindset shift from engineer to founder is substantial. As an engineer, I was optimizing for technical excellence. As a founder, I learned to optimize for customer value and business viability—sometimes those align with technical elegance, often they don't.
 
-## “We have two lives, and the second begins when we realize we only have one.”
+**On working internationally:**
+Building a startup in Vietnam as a foreigner presented unique challenges: language barriers, cultural differences in business practices, and establishing credibility. These constraints forced creative solutions and built resilience.
 
-There are things I regret—things I’d give a lot to do over. And yet, they led me here. I am extremely grateful to be in the position I am in, not everybody has such an opportunity. Which is why I believe it is an honor and a blessing to work to be better for yourself and for others.
+**On validating ideas:**
+Raising funding validated our pitch, but the real validation comes from customers willing to pay for the solution. Demo day success is the beginning, not the destination.
 
-And lately... I am more proud of the person I’m becoming.
+## Looking Forward
 
-If you’re somewhere on your own journey, I wish you the strength to keep going and the courage to change. Most of us already know what we need to do... we just need to be brave enough to try.
+The experience of going from concept to funded startup in a few months has been transformative. Whether SENLA succeeds or not, the lessons from:
+- Building technical products in unfamiliar domains
+- Pitching and fundraising
+- Working across cultures
+- Managing distributed teams
 
-Don't know how it will all work out in the end, but I think I have a closer direction. We’re all closer than we think. Keep walking.
+...are invaluable for any software engineering career.
 
-# Some fun images I thought I could share
+For engineers considering the startup path: the technical work is often the easiest part. The hard work is understanding customers, building the right thing, and having the persistence to keep iterating when the first (and second, and third) approach doesn't work.
+
+---
 
 <div style="display: flex; flex-wrap: wrap; gap: 2em; margin: 2.5em 0; justify-content: center;">
   <figure style="flex: 0 1 320px; text-align: center; max-width: 320px;">
@@ -50,16 +59,15 @@ Don't know how it will all work out in the end, but I think I have a closer dire
     <figcaption style="margin-top: 0.5em; font-size: 0.95em; color: #666;">Pre-IC pitch session</figcaption>
   </figure>
   <figure style="flex: 0 1 320px; text-align: center; max-width: 320px;">
-    <img src="/images/matchfreight-post-funding.jpg" alt="Us after being told we got funding" style="width:100%; max-width:320px; height:220px; object-fit:cover; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-    <figcaption style="margin-top: 0.5em; font-size: 0.95em; color: #666;">Us after being told we got funding</figcaption>
+    <img src="/images/matchfreight-post-funding.jpg" alt="Team after securing funding" style="width:100%; max-width:320px; height:220px; object-fit:cover; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+    <figcaption style="margin-top: 0.5em; font-size: 0.95em; color: #666;">Team after securing funding</figcaption>
   </figure>
   <figure style="flex: 0 1 320px; text-align: center; max-width: 320px;">
-    <img src="/images/matchfreight-thanh-minh-dinner.jpg" alt="Crazy foreigners at a client dinner" style="width:100%; max-width:320px; height:220px; object-fit:cover; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
-    <figcaption style="margin-top: 0.5em; font-size: 0.95em; color: #666;">Crazy foreigners at a client dinner</figcaption>
+    <img src="/images/matchfreight-thanh-minh-dinner.jpg" alt="Client dinner meeting" style="width:100%; max-width:320px; height:220px; object-fit:cover; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+    <figcaption style="margin-top: 0.5em; font-size: 0.95em; color: #666;">Client dinner meeting</figcaption>
   </figure>
   <figure style="flex: 0 1 320px; text-align: center; max-width: 320px;">
     <img src="/images/antler-cohort.jpg" alt="Antler Vietnam Cohort 8" style="width:100%; max-width:320px; height:220px; object-fit:cover; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
     <figcaption style="margin-top: 0.5em; font-size: 0.95em; color: #666;">Antler Vietnam Cohort 8</figcaption>
   </figure>
 </div>
-

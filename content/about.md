@@ -5,7 +5,10 @@ draft: false
 ---
 
 <div style="margin: 2em 0; text-align: center;">
-  <img src="/videos/vietnam-hearts.gif" alt="Vietnam Hearts" id="vietnam-hearts.gif" style="max-width: 720px; width:100%; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+  <video autoplay loop muted playsinline style="max-width: 720px; width:100%; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+    <source src="/videos/vietnam-hearts.mp4" type="video/mp4">
+    <img src="/videos/vietnam-hearts.gif" alt="Vietnam Hearts" style="max-width: 720px; width:100%; border-radius: 12px; box-shadow: 0 2px 8px rgba(0,0,0,0.08);">
+  </video>
 </div>
 
 # About Me 

@@ -13,7 +13,7 @@ series = []
 
 # From Engineer to Founder: Lessons from Raising $120k
 
-Recently, my team and I successfully raised $120k in pre-seed funding at a ~$1M valuation through the [Antler VN8 Cohort](https://hub.antler.co/) for [SENLA](www.shipsenla.com) for logistics providers.  
+Recently, my team and I successfully raised $120k in pre-seed funding at a ~$1M valuation through the [Antler VN8 Cohort](https://hub.antler.co/) for [SENLA](https://www.shipsenla.com/) for logistics providers.  
 
 This journey from embedded systems engineer to technical co-founder taught me several lessons worth sharing.
 

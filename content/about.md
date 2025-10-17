@@ -13,7 +13,7 @@ draft: false
 
 # About Me 
 
-Hey, I’m Viet Nguyen. I am a professional software engineer with over 5 years of experience across the stack, from embedded to full-stack and automation based projects. My experience in fast paced startup culture exposed me to each part of software product development, everything from concept, prototype, development, testing, and deployment. I have spent most of my professional career in the Bay Area California, exposing me to the best tech-industry practices. My specialization has been in embedded, full-stack and automation based projects. 
+Hey, I'm Viet William-Quoc Nguyen. I am a professional software engineer with over 5 years of experience across the stack, from embedded to full-stack and automation based projects. My experience in fast paced startup culture exposed me to each part of software product development, everything from concept, prototype, development, testing, and deployment. I have spent most of my professional career in the Bay Area California, exposing me to the best tech-industry practices. My specialization has been in embedded, full-stack and automation based projects.
 
 I am also the founder of [Vietnam Hearts](https://www.facebook.com/vietnamhearts), a volunteer collective providing an educational, positive, and fun environment for disadvantaged children in Ho Chi Minh City. Founded just in 2025 and in under a year, I launched a grassroots educational organization, scaling from 0 to over 60 students and 100 volunteers and has raised over $5000 for food and supplies.
 
@@ -28,8 +28,8 @@ I continually look for ways to improve both professionally and personally, and c
 _Ho Chi Minh City, Vietnam | August 2025 – Present_
 
 - Raised $120k in pre-seed funding for a freight matching logistics platform valued at $1M from Antler.
-- Led technical validation including market research and competitive analysis, and conducted over 10 pilot user interviews.
-- Designed system architecture for a multi-sided marketplace connecting shippers and freight carriers.
+- Led technical validation including market research, competitive analysis, for over 10+ pilot user interviews.
+- Designed system architecture MVP v0 for multi-sided marketplace connecting shippers and freight carriers.
 
 ---
 
@@ -37,8 +37,8 @@ _Ho Chi Minh City, Vietnam | August 2025 – Present_
 **Founder&nbsp;|&nbsp;Software Engineer**  
 _Ho Chi Minh City, Vietnam | February 2025 – Present_
 
-- Led a grassroots volunteer organization, raised over $3000, and recruited 100+ volunteers through meetups and social media to serve 80+ disadvantaged children in Vietnam.
-- Developed a full-stack Python, FastAPI volunteer management system handling user preferences, authentication, email notifications, scheduling, and escalation notices for teaching operations.
+- Leader of a grassroots volunteer organization, raised over $3000, recruited over 100 volunteers through meetups and online social media to serve over 80+ disadvantaged children in Vietnam.
+- Developed a full stack Python, FastAPI volunteer management system for users, handling user preferences, authentication, email notifications, scheduling, and escalation notices for teaching operations.
 
 ---
 
@@ -46,10 +46,10 @@ _Ho Chi Minh City, Vietnam | February 2025 – Present_
 **Software Engineer**  
 _Remote | October 2023 – January 2025_
 
-- Lead test and verification engineer for image loading software, loading binary files across CAN and UART buses.
-- Built test framework and CI/CD pipeline for reliable system functionality to engineering requirements.
-- Developed and maintained features, implemented bug fixes, and refactored legacy code in C#.
-- Programmed Python for Software-in-the-Loop (SIL) and Hardware-in-the-Loop (HIL) test environments for robust validation of systems to DO-178C, DAL-D level requirements.
+- Lead test and verification engineer for image loading software loading binary files across CAN and UART buses.
+- Built test framework and CI/CD pipeline for reliability on system functionality to engineering requirements.
+- Developed and maintained features, implemented bug fixes, and refactored legacy code in C#
+- Programmed Python for Software in the loop (SIL) hardware in the loop (HIL) test environments for robust validation of systems for DO-178C, DAL-D level requirements.
 
 ---
 
@@ -57,8 +57,8 @@ _Remote | October 2023 – January 2025_
 **Software Engineer**  
 _Remote | May 2023 – September 2023_
 
-- Implemented a Nagios cross-system monitoring and notifications tool for system dependencies.
-- Programmed JavaScript for onboard computer and refactored legacy code for maintainability.
+- Implemented a Nagios cross system monitoring and notifications tool for system dependencies effectively.
+- Programmed Javascript for onboard computer and refactored legacy code for maintainability.
 
 ---
 
@@ -76,8 +76,8 @@ _Mountain View, CA | October 2020 – December 2022_
 **Autonomous Systems Engineer**  
 _Santa Clara, CA | June 2020 – October 2020_
 
-- Spearheaded software development for a public health initiative with Santa Clara County, resulting in a full-stack autonomous robot for sanitization.
-- Implemented robotic control algorithms on Raspberry Pi and Jetson TX2 using Python and ROS.
+- Spearheaded software development efforts for a public health initiative in collaboration with Santa Clara County, resulting in the creation of a full-stack autonomous robot for sanitization purposes.
+- Implemented robotic control algorithms on the Raspberry Pi and Jetson TX2 using Python and ROS.
 
 ---
 
@@ -92,8 +92,7 @@ _Santa Cruz, CA | Sep 2018 – Jun 2020_
 ## Education
 
 **University of California, Santa Cruz**  
-_B.S. in Robotics Engineering with Honors_  
-_Minor in Electrical Engineering_  
+_B.S. in Robotics Engineering with Honors, Minor in Electrical Engineering_  
 _June 2020 | Santa Cruz, CA_
 
 ---
@@ -107,14 +106,13 @@ _June 2020 | Santa Cruz, CA_
 - Full-Stack Development  
 
 **Languages & Frameworks:**  
-- Python, C++, C#, C, MATLAB, Bash, Bitbake, Java  
-- FastAPI, ROS
+- Python, C++, C#, C, MATLAB, Bash, Bitbake, Typescript, Javascript  
+- FastAPI, Flask, ROS
 
 **Software & Tools:**  
-- Git, Docker, Google Cloud Platform, PostgreSQL, Supabase, Yocto, Pytest
+- Git, Docker, Google Cloud Platform, FastAPI, Flask, PostgreSQL, Supabase, Yocto, ROS, Pytest
 
 **Hardware & Protocols:**  
-- BeagleBone Black, UR5, Raspberry Pi, Linux  
-- Bluetooth, BLE, CAN, UART, I2C, MQTT, IoT
+- BeagleBone Black, UR5, Raspberry Pi, Linux, Bluetooth, BLE, CAN, UART, I2C, MQTT, IOT
 
 ---

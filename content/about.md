@@ -17,7 +17,7 @@ Hey, I'm Viet William-Quoc Nguyen. I am a professional software engineer with ov
 
 I am also the founder of [Vietnam Hearts](https://www.facebook.com/vietnamhearts), a volunteer collective providing an educational, positive, and fun environment for disadvantaged children in Ho Chi Minh City. Founded just in 2025 and in under a year, I launched a grassroots educational organization, raising over $3000, recruiting over 100 volunteers through meetups and social media to serve over 80+ disadvantaged children in Vietnam.
 
-I continually look for ways to improve both professionally and personally, and create things that matter. If that aligns with you, <a href="/contact/">let's get in touch</a>.
+I always look to create meaningful work, and work on things that matter. If that aligns with you, <a href="/contact/">let's get in touch</a>.
 
 ---
 

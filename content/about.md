@@ -24,12 +24,12 @@ I always look to create meaningful work, and work on things that matter. If that
 ## Work Experience
 
 ### <img src="/images/senla-icon-blue-white-square.png" alt="SENLA" style="width: 24px; height: 24px; vertical-align: middle; margin-right: 8px;" /> **SENLA**  
-**Technical Co-Founder**  
+**Chief Technical Officer**  
 _Ho Chi Minh City, Vietnam | August 2025 – Present_
 
 - Raised $120k in pre-seed funding for a freight matching logistics platform valued at $1M from Antler.
-- Led technical validation including market research, competitive analysis, for over 10+ pilot user interviews.
-- Designed system architecture and MVP v0 for multi-sided marketplace connecting shippers and freight carriers.
+- Led market validation (10+ user interviews), technical design, product and development for MVP v0.
+- Designed, developed, and deployed software services (Vercel, Airtable, Python) for pilot shippers and carriers.
 
 ---
 

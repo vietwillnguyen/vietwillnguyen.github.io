@@ -29,7 +29,7 @@ _Ho Chi Minh City, Vietnam | August 2025 – Present_
 
 - Raised $120k in pre-seed funding for a freight matching logistics platform valued at $1M from Antler.
 - Led market validation (10+ user interviews), technical design, product and development for MVP v0.
-- Designed, developed, and deployed software services (Vercel, Airtable, Python) for pilot shippers and carriers.
+- Designed, developed, and deployed software services (Vercel, Python) for pilot shippers and carriers.
 
 ---
 
@@ -66,7 +66,7 @@ _Remote | May 2023 – September 2023_
 **Software Engineer**  
 _Mountain View, CA | October 2020 – December 2022_
 
-- Led development for an FAA-regulated Remote Identification drone tracking system implementation.
+- Deployed mission-critical FAA Remote Identification system under regulatory deadline, preventing fleet-wide grounding and enabling continued commercial operations.
 - Programmed C++ and C for aircraft flight management computer and ground station application logic.
 - Managed updates and maintenance of flight computer OS builds and procedures using Yocto and Bitbake.
 

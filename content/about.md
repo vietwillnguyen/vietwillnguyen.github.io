@@ -13,11 +13,11 @@ draft: false
 
 # About Me 
 
-Hey, I'm Viet William-Quoc Nguyen. I am a professional software engineer with over 5 years of experience across the stack, from embedded to full-stack and automation based projects. My experience in fast paced startup culture exposed me to each part of software product development, everything from concept, prototype, development, testing, and deployment. I have spent most of my professional career in the Bay Area California, exposing me to the best tech-industry practices. My specialization has been in embedded, full-stack and automation based projects.
+Hey, I'm Viet William-Quoc Nguyen. I'm a software engineer with 5+ years building embedded and full-stack systems across startups in the Bay Area and as a technical co-founder. I've worked on everything from FAA-regulated drone systems to freight logistics platforms, taking products from concept through deployment.
 
-I am also the founder of [Vietnam Hearts](https://www.facebook.com/vietnamhearts), a volunteer collective providing an educational, positive, and fun environment for disadvantaged children in Ho Chi Minh City. Founded just in 2025 and in under a year, I launched a grassroots educational organization, raising over $3000, recruiting over 100 volunteers through meetups and social media to serve over 80+ disadvantaged children in Vietnam.
+I'm also the founder of [Vietnam Hearts](https://www.facebook.com/vietnamhearts), a volunteer collective providing educational programs for disadvantaged children in Ho Chi Minh City. Since founding it in early 2025, I've raised over $3,000 and mobilized 100+ volunteers to serve 80+ children.
 
-I always look to create meaningful work, and work on things that matter. If that aligns with you, <a href="/contact/">let's get in touch</a>.
+I'm driven by work that matters; whether it's building technology or creating opportunities for others. If that resonates with you, <a href="/contact/">let's get in touch</a>.
 
 ---
 
